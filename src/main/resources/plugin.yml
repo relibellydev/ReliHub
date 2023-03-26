@@ -1,0 +1,7 @@
+name: ReliHub
+version: '${project.version}'
+main: fr.relibelly.relihub.ReliHub
+author: Relibelly
+commands:
+  spawn:
+    description: Commande pour revenir au spawn du hub.
